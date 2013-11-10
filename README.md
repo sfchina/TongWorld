@@ -1,8 +1,8 @@
 #TongWorld/彤界#
 =========
 
-**Tong's World. For More Easy, More Funning To Learn, Communicate, And Live.**
-**彤界，一个为了更轻松，更快乐地去学习，交流甚至生活的而创造的世界。**
+###Tong's World. For More Easy, More Funning To Learn, Communicate, And Live.
+###彤界，一个为了更轻松，更快乐地去学习，交流甚至生活而创造的世界。
 
 *Why The Name Is Tong World?*
 *为什么要取名为彤界呢？*
@@ -29,4 +29,5 @@
 ---
 *  I Have Think Many Other Use Stories, But  Them Will Show You One By One, At The Late.
    我还想了很多使用的场景，但是，它们将会在今后一一呈现给大家。 
+
 ---
